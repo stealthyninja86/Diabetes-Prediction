@@ -5,4 +5,4 @@ A diabetes detection web app for women made using python and streamlit that take
 •	Model is trained using diabetes.csv dataset, trained and created on jupyter notebook using python
 •	Front end UI is created using streamlit
 
- link: https://diabetes-prediction-streamli.herokuapp.com/
+ link: https://diabetes.streamlit.app/
