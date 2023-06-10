@@ -29,7 +29,7 @@ def main():
     
     #title
     st.title('Diabetes Prediction')
-    st.write("sample data: 1	85	66	29	0	26.6	0.351	31	0")
+    st.write("sample data: 1	85	66	29	0	26.6	0.351	31	")
     #getting input data from user
     
     Pregnancies = st.text_input('number of pregnancies')
